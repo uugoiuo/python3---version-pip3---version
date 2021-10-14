@@ -1,0 +1,6 @@
+rbaseurl: /Apktool
+exclude: ['Gemfile.lock', 'Gemfile', 'README.md', 'vendor']
+url: https://ibotpeaches.github.io
+
+plugins:
+  - jekyll-sitemap
